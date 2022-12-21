@@ -13,4 +13,4 @@
 2) Create three Spring boot project as flightsearch, booking, checkin microservice by adding eureka client dependency and accordingly as mentioned in above code.
 3) Create fifth Spring boot project as APIgateway and add Spring cloud dependency in it and do configuration in application properties as mentioned in above code
 4) In all microservices except server microservice you need to do configuration in application properties for database connection.
-5) After adding data in database according to attributes and by calling apis in postman and check the output.
+5) After adding data in database according to attributes and by calling apis in postman then check the output.
