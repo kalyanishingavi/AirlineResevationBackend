@@ -1,6 +1,6 @@
 # AirlineResevationBackend
->This is backend
-Back-end development means working on server-side software, which focuses on everything you can’t see on a website. Back-end developers ensure the website performs correctly, focusing on databases, back-end logic, application programming interface (APIs), architecture, and servers. They use code that helps browsers communicate with databases, store, understand, and delete data.
+
+>Back-end development means working on server-side software, which focuses on everything you can’t see on a website. Back-end developers ensure the website performs correctly, focusing on databases, back-end logic, application programming interface (APIs), architecture, and servers. They use code that helps browsers communicate with databases, store, understand, and delete data.
 
 **Project Description**
 1) In this project I have used java as programming language and executed on Spring boot framework, MySql for database connection and postman for testing purpose. 
