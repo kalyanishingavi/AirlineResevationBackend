@@ -16,3 +16,8 @@
 5) After adding data in database according to attributes and by calling apis in postman then check the output.
 
 **video reference:-** https://youtu.be/U7a53hkFsWg
+
+**Directly Implementing using code mentioned above**
+1) Import this code in spring framework.
+2) First start the eureka server and make sure your database configuration is done for all other microservices.
+3) After Successfull execution, test apis in postman.
